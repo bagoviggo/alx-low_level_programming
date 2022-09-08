@@ -1,1 +1,1 @@
-All about C langugage and it's syntax
+A C low-level programming language
