@@ -1,0 +1,3 @@
+#!/bin/bash
+##the -E tells gcc to stop after preprocessing stage
+gcc -E $CFILE>>c
