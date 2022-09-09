@@ -2,10 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *more headers goes there 
+ *main block 
  *Description: Get a random number and print the number
  *checks if n is positive,negative or zero
- *betty style doc for function main goes there */
+ *betty style doc for function main goes there 
+*/
 int main(void)
 {
 	int n;
