@@ -1,0 +1,16 @@
+#include "main.h"
+/**
+ *main - main block
+ *Description: prints putchar
+ *Return: 0
+ */
+int main(void)
+{
+	char c[10] = "_putchar";
+
+	_putchar(c);
+	_putchar'\n');
+	return (0);
+
+}
+
