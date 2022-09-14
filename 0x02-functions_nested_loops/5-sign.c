@@ -1,27 +1,27 @@
 #include "main.h"
 /**
- *
- *print_sign - main block
- *
+ *print_sign - checks integer
+ *@n: integer to be checked
  *Description: function that prints the + if n>0, 0 if n==0, - if n < 0
  *
- *Return 1 or 0
+ *Return: 1 or 0
  */
 int print_sign(int n)
 {
 	if (n > 0)
-	{	
-		_putchar(43);//+ sign in ASCII code
+	{
+		_putchar(43);/*+ sign in ASCII code*/
 		return (1);
 	}
 	else if (n == 0)
 	{
-		_putchar(48);//0 in ASCII code
+		_putchar(48);/*0 in ASCII code*/
 		return (0);
 	}
-	else 
+	else
+
 	{
-		_putchar(45);//- sign in ASCII code
+		_putchar(45);/*- sign in ASCII code*/
 		return (-1);
 	}
 }
