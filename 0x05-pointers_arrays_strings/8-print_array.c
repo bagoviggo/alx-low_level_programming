@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include  "main.h"
 /**
 *print_array - prints n elements of an arr of int
@@ -18,5 +17,5 @@ void print_array(int *a, int n)
 		else
 			printf("%d", a[i]);
 	}
-	printf('\n');
+_putchar('\n');
 }
