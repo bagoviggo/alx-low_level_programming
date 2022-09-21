@@ -3,7 +3,7 @@
 /**
 *_strcat - concatenates src to dest
 *@src: pointer  to string to be cat with dest
-@dest: pointer  to string to be cat with src
+*@dest: pointer  to string to be cat with src
 *
 *Return: a pointer to the resulting string dest
 */
