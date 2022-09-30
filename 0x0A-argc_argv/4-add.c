@@ -25,7 +25,7 @@ int isInteger(char *s)
 /**
 * main - adds numbers
 *@argc: count of args passed to the func
-*@agv: arg vector of pointers to strings
+*@argv: arg vector of pointers to strings
 *
 *Return: 0 if no errors, else 1
 */
