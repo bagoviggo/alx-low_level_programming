@@ -13,13 +13,14 @@ struct dog
 	float age;
 	char *owner;
 };
+
 /**
-*struct dog - typedef for struct dog
+*struct dog1 - typedef for struct dog
 *@name: first member //char
 *@age: second member //int
 *@owner: third member //char
 */
-typedef struct dog
+typedef struct dog1
 {
 	char *name;
 	float age;
