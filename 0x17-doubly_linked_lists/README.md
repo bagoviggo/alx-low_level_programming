@@ -1,4 +1,5 @@
-## Doubly_linked_lists
+# 0x17. C - Doubly linked lists
+
 ## Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/0ABh2M07w5kdsh9gRx1XwA "explain to anyone"), **without the help of Google**:
